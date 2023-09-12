@@ -12,7 +12,7 @@ router.get("/", (req, res) => {
     res.send("Welcome to websitest! router");
 });
 
-//using promises
+
 
 
 // router.post("/register", (req, res) => {
